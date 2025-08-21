@@ -7,3 +7,5 @@ This is a new feature.
 This is a new feature from andres.
 
 Solving a little error.
+
+Solving another error.
